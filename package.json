@@ -1,0 +1,11 @@
+{
+   "name": "franco",
+   "description": "A very simple Node.js app",
+   "author": "Franco Tang <francotch1996@gmail.com>",
+   "version": "0.0.1",
+   "dependencies": {},
+   "engine": "node >= 0.10.0",
+   "scripts": {
+      "start": "node project.js"
+   }
+}
