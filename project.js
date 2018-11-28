@@ -307,7 +307,7 @@ function findRestaurants(db,criteria,max,callback) {
 	});
 }
 
-app.listen(8099, function () {
-  console.log('Example app listening on port 8099!');
+app.listen(4000, function () {
+  console.log('Example app listening on port 4000!');
 });
 
